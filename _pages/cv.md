@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/files/CV_Clara.pdf">
+<img src="/files/ClaraPollock_CV-1.pdf">
