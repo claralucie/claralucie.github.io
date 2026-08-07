@@ -217,88 +217,88 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-#collections:
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  research:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
-#  art:
-#    output: true
-#    permalink: /:collection/:path/
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  art:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
-#defaults:
-#  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-#  # _pages
-#  - scope:
-#      path: ""
-#      type: pages
-#    values:
-#      layout: single
-#      author_profile: true
-#  # _publications
-#  - scope:
-#      path: ""
-#      type: publications
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
-#  # _research
-#  - scope:
-#      path: ""
-#      type: research
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comment: true
-#  # _talks
-#  - scope:
-#      path: ""
-#      type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
-#  # _art
-#  - scope:
-#      path: ""
-#      type: art
-#    values:
-#      layout: art
-#      author_profile: true
-#      share: true
-
-header:
-  pages:
-    - name: Research  # <-- blog.md
-      slug: /research
-    - name: Publications
-      slug: /publications
-    - name: Talks  # <-- blog.md
-      slug: /talks
-    - name: CV  # <-- blog.md
-      slug: /cv
-    -name: Art
-      slug: /art
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _art
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: art
+      author_profile: true
+      share: true
+      
+#header:
+#  pages:
+#    - name: Research  
+#      slug: /research
+#    - name: Publications
+#      slug: /publications
+#    - name: Talks  
+#      slug: /talks
+#    - name: CV  
+#      slug: /cv
+#    -name: Art
+#      slug: /art
     
 # Sass/SCSS
 sass:
