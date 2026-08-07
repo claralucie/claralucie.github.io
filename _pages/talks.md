@@ -8,7 +8,7 @@ author_profile: true
 # Invited Talks
 
 1. Dissecting gas in galaxies from cosmic dawn to noon\\
-   <i>SDU-Galaxy Seminar</i> - Syddansk Universitet, Odense
+   <i>SDU-Galaxy Seminar</i> - Syddansk Universitet, Odense \\
    20/01/2025
    
 2. Direct metallicities and neutral hydrogen in the early universe\\
