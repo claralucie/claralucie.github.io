@@ -13,10 +13,10 @@ Some selected paintings are shown below. Please contact me if you would like to 
 Astronomy illustrations 
 ======
 Dark matter haloes
- img src="/images/DM_halo.jpg"
+<img src="/images/DM_halo.jpg">
 
 JWST and ALMA galaxy
- img src="/images/JWST_ALMA_illustration.jpeg"
+<img src="/images/JWST_ALMA_illustration.jpeg">
 
 Non-astronomy illustrations
 ======
