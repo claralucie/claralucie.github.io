@@ -221,9 +221,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -261,15 +258,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -287,18 +275,6 @@ defaults:
       author_profile: true
       share: true
       
-#header:
-#  pages:
-#    - name: Research  
-#      slug: /research
-#    - name: Publications
-#      slug: /publications
-#    - name: Talks  
-#      slug: /talks
-#    - name: CV  
-#      slug: /cv
-#    -name: Art
-#      slug: /art
     
 # Sass/SCSS
 sass:
