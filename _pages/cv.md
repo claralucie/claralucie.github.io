@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, University of Copenhagen, 2028 (expected)
+* MPhys. in Astrophysics (first class), University of Edinburgh, 2024
+* Erasmus exchange, Lund University, 2022-2023
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#Work experience
+#======
+#* Summer 2022: Research Assistant
+#  * GitHub University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#* Summer 2015: Research Assistant
+#  * GitHub University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
   
 Skills
 ======
