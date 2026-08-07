@@ -1,7 +1,7 @@
 ---
 layout: archive
+title: "Art"
 permalink: /art/
-title: "Illustrations"
 author_profile: true
 ---
 
