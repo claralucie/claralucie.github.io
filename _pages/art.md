@@ -12,11 +12,33 @@ Some selected paintings are shown below. Please contact me if you would like to 
 
 Astronomy illustrations 
 ======
-Dark matter haloes
-<img src="/images/DM_halo.jpg" width=200>
+Dark matter haloes\\
+<img src="/images/DM_halo.jpg" width=300>
 
-JWST and ALMA galaxy
-<img src="/images/JWST_ALMA_illustration.jpeg" width=200>
+Galaxy formation with JWST and ALMA\\
+<img src="/images/JWST_ALMA_illustration.jpeg" width=300>
+
+Universe timeline\\
+<img src="/images/Time since Big Bang-2.pdf" width=300>
+
+Reionisation\\
+<img src="/images/reion_cosmicdawn.pdf" width=300>
+
+Galaxy assembly\\
+<img src="/images/galass_cosmicdawn.pdf" width=300>
+
+Galaxy formation\\
+<img src="/images/galform_cosmicdawn.pdf" width=300>
+
+Chemical enrichment\\
+<img src="/images/chem_cosmicdawn.pdf" width=300>
+
+Black holes\\
+<img src="/images/black_holes_cosmicdawn.pdf" width=300>
 
 Non-astronomy illustrations
 ======
+Edinburgh\\
+
+Glasgow\\
+
