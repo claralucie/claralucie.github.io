@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Clara Pollock"
 title_separator          : "-"
 name                     : &name "Clara Pollock"
@@ -26,15 +26,14 @@ author:
   avatar           : "profile.png"
   name             : "Clara Pollock"
   pronouns         : "she/her"  
-  bio              : "PhD student at the Cosmic Dawn Center, Niels Bohr Institute, Rådmandsgade 64, 2200 København, clara.pollock@nbi.ku.dk"
+  bio              : "PhD student at the Cosmic Dawn Center // clara.pollock@nbi.ku.dk"
   location         : #"Copenhagen"
-  employer         : "University of Copenhagen"
+  employer         : #"University of Copenhagen"
   uri              : # URL
   email            : "clara.pollock@nbi.ku.dk" 
   ads              : "https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&p_=0&q=author%3A%22Pollock%2C%20Clara%20L.%22%20year%3A2022-2026&sort=date%20desc%2C%20bibcode%20desc"
 
   # Academic websites
-  ads              : "https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&p_=0&q=author%3A%22Pollock%2C%20Clara%20L.%22%20year%3A2022-2026&sort=date%20desc%2C%20bibcode%20desc"
   orcid            : "https://orcid.org/0009-0001-2808-4918"
 
 
