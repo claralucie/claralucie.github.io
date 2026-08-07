@@ -15,7 +15,7 @@ My research interests are in early galaxy formation, specifically using spectros
 
 I'm originally from the west coast of Scotland, and obtained an integrated masters degree from the University of Edinburgh in 2024, having also spent time at Lund University in Sweden as part of an Erasmus exchange. 
 
-In my spare time I enjoy outdoor swimming, running, and [painting illustrations](/art.md).
+In my spare time I enjoy outdoor swimming, running, and [painting illustrations](/art.html).
 
 
 
