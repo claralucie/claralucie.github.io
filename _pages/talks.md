@@ -33,7 +33,7 @@ author_profile: true
    <i>DAWN summit 2026</I> - Copenhagen, Denmark
 
 4. Insights into star-formation efficiency with damped Lyman-alpha absorbers\\
-   <i>Charting Cosmic DAWN</i>, Helsingør, Denmark\\
+   <i>Charting Cosmic DAWN</I> - Helsingør, Denmark\\
    16/04/2026
    
 # Outreach
