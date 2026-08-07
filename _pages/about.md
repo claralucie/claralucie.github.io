@@ -21,6 +21,7 @@ I'm originally from the west coast of Scotland, and obtained an integrated maste
 
 In my spare time I enjoy outdoor swimming, running, and [painting illustrations](/_pages/art).
 
+<img "images/DAWN - Blue.pdf" width=600>
 
 
 
