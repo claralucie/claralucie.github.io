@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /art
+permalink: /art/
 title: "Illustrations"
 author_profile: true
 ---
