@@ -10,3 +10,4 @@ redirect_from:
 {% include base_path %}
 
 <img src="/files/CV_1_page.pdf">
+<img src="/files/CV_2_page.pdf">
