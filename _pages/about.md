@@ -17,8 +17,8 @@ I'm originally from the west coast of Scotland, and obtained an integrated maste
 
 In my spare time I enjoy outdoor swimming, running, and [painting illustrations](/pages/art).
 
-Contact details:
-clara.pollock@nbi.ku.dk
+Contact details: \\
+clara.pollock@nbi.ku.dk \\
 Cosmic Dawn Center, Rådmandsgade 64, 2200 København
 
 
