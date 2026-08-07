@@ -9,41 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Astrophysics, University of Copenhagen, 2028 (expected)
-* MPhys. in Astrophysics (first class), University of Edinburgh, 2024
-* Erasmus exchange, Lund University, 2022-2023
-
-#Work experience
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<img src="/images/DM_halo.jpg">
