@@ -44,5 +44,5 @@ G. Nikopoulos et. al., (2026)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260631515N)
 
 # Co-author publications
-A full list of publications can be seen with [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&p_=0&q=author%3A%22Pollock%2C%20Clara%20L.%22%20year%3A2022-2026&sort=date%20desc%2C%20bibcode%20desc))
+A full list of publications can be seen with [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&p_=0&q=author%3A%22Pollock%2C%20Clara%20L.%22%20year%3A2022-2026&sort=date%20desc%2C%20bibcode%20desc)
 
