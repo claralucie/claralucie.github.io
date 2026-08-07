@@ -126,6 +126,12 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email
+      value: clara.pollock@nbi.ku.dk
+      link: mailto:clara.pollock@nbi.ku.dk
 
 # Social Sharing
 twitter:
