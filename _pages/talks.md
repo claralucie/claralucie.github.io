@@ -26,7 +26,7 @@ author_profile: true
 
 # Contributed Talks
 
-1. Direct metallicities at $$z>9$$ and neutral hydrogen at $$z>8$$
+1. Direct metallicities at $$z>9$$ and neutral hydrogen at $$z>8$$ \\
    <i>DAWN summit 2025</I> - Copenhagen, Denmark
    
 3. Pristine gas to chemical enrichments in the first galaxies\\
