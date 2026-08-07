@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Clara Pollock"
 title_separator          : "-"
 name                     : &name "Clara Pollock"
@@ -73,14 +73,6 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-#publication_category:
-#  first:
-#    title: 'First author articles'    
-#  major:
-#    title: 'Major contribution'
-#  coauthor:
-#    title: 'Coauthor articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
