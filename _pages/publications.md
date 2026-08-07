@@ -8,13 +8,16 @@ author_profile: true
 
 # First author publications
 
-1. Novel $$z \sim 10$$ auroral line measurements extend the gradual offset of the fundamental metallicity relation deep into the first gigayear of cosmic time
+1. Novel $$z \sim 10$$ auroral line measurements extend the gradual offset of the fundamental metallicity relation deep into the first gigayear of cosmic time,
+C. Pollock et. al., (2026a)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026A&A...708A.203P)
 
-2. Characterising $$Ly\alpha$$ damping wings at the onset of reionisation: Evidence for highly efficient star formation driven by dense, neutral gas in UV-bright galaxies at $$z > 9$$
+3. Characterising $$Ly\alpha$$ damping wings at the onset of reionisation: Evidence for highly efficient star formation driven by dense, neutral gas in UV-bright galaxies at $$z > 9$$,
+C. Pollock et. al., (2026b)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026A&A...711A.298P)
 
-3. Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn
+4. Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn,
+C. Pollock et. al., (2026c)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260613078P)
 
 # Publications with major contributions
@@ -28,7 +31,7 @@ R. Naidu et. al., (2026)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026OJAp....956033N)
 
 3. A dense web of neutral gas in a galaxy proto-cluster post-reionization,
-K. Heintz et. al., (2026)
+K. Heintz et. al., (2026a)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026NatAs..10..448H)
 
 4. A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST,
@@ -36,7 +39,7 @@ H. Reumert et. al., (2026)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260313471R)
 
 5. JWST spectroscopy of galaxies at $$z>10$$: Damped Ly$$α$$ absorbers reveal efficient star formation and hidden redshift biases
-K. Heintz et. al., (2026)
+K. Heintz et. al., (2026b)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260630787H)
 
 6. The metallicities of little red dot host galaxies: LRDs are metal poor, but not pristine,
