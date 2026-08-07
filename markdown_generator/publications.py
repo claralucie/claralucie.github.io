@@ -19,8 +19,8 @@ import sys
 EXIT_ERROR = 0
 
 # The expected layout of the CSV / TSV file
-HEADER_LEGACY  = ['pub_date', 'title', 'venue', 'excerpt', 'citation', 'url_slug', 'paper_url', 'slides_url']
-HEADER_UPDATED = ['pub_date', 'title', 'venue', 'excerpt', 'citation', 'url_slug', 'paper_url', 'slides_url', 'category']
+HEADER_LEGACY  = ['pub_date', 'title', 'ADS_link']
+HEADER_UPDATED = ['pub_date', 'title', 'ADS_link', 'category']
 
 # YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands)
 # with their HTML encoded equivalents. This makes them look not so readable in raw format, but they are parsed and
@@ -37,8 +37,8 @@ HTML_ESCAPE_TABLE = {
 def create_md(lines: list, layout: list):
     for item in lines:
         # Parse the filename information
-        md_filename = f"{item[layout.index('pub_date')]}-{item[layout.index('url_slug')]}.md"
-        html_filename = str(item[layout.index('pub_date')]) + "-" + item[layout.index('url_slug')]
+        md_filename = f"{item[layout.index('pub_date')]}.md"
+        html_filename = str(item[layout.index('pub_date')])
         
         # Parse the YAML variables
         md = f"---\ntitle: \"{item[layout.index('title')]}\"\n"
@@ -51,17 +51,13 @@ def create_md(lines: list, layout: list):
         if len(str(item[layout.index('excerpt')])) > 5:
             md += f"\nexcerpt: '{html_escape(item[layout.index('excerpt')])}'"
         md += f"\ndate: {item[layout.index('pub_date')]}"
-        md += f"\nvenue: '{html_escape(item[layout.index('venue')])}'"
-        if len(str(item[layout.index('paper_url')])) > 5:
-            md += f"\npaperurl: '{item[layout.index('paper_url')]}'"
-        md += f"\ncitation: '{html_escape(item[layout.index('citation')])}'"
+        if len(str(item[layout.index('ADS_link')])) > 5:
+            md += f"\npaperurl: '{item[layout.index('ADS_link')]}'"
         md += "\n---"
         
         # Markdown description for individual page
         if len(str(item[layout.index('paper_url')])) > 5:
             md += f"\n<a href='{item[layout.index('paper_url')]}'>Download paper here</a>\n"
-        if len(str(item[layout.index('excerpt')])) > 5:
-            md += f"\n{html_escape(item[layout.index('excerpt')])}\n"
         md += f"\nRecommended citation: {item[layout.index('citation')]}"
         
         # Write the file
