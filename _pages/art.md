@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /art/
 title: "Illustrations"
 author_profile: true
