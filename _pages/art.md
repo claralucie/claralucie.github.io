@@ -2,9 +2,6 @@
 permalink: /art/
 title: "Illustrations"
 author_profile: true
-redirect_from: 
-  - "/art/"
-  - "/art.html"
 ---
 
 In my free time I enjoy creating art, mostly painted illustrations which can be either related or unrelated to my work in astronomy.
