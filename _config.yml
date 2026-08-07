@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Clara Pollock"
   pronouns         : "she/her"  
-  bio              : "PhD student at the Cosmic Dawn Center"
-  location         : #"Copenhagen"
+  bio              : "PhD student"
+  location         : "Cosmic Dawn Center"
   employer         : #"University of Copenhagen"
   uri              : # URL
   email            : "clara.pollock@nbi.ku.dk" 
