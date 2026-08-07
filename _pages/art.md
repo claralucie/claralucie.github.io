@@ -19,7 +19,7 @@ Galaxy formation with JWST and ALMA \\
 <img src="/images/JWST_ALMA_illustration.jpeg" width=300>
 
 Universe timeline \\
-<img src="/images/Time since Big Bang-2.pdf" width=300>
+<img src="/images/Time since Big Bang-2.pdf" width=600>
 
 Reionisation \\
 <img src="/images/reion_cosmicdawn.pdf" width=300>
