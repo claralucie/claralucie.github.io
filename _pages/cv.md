@@ -16,17 +16,7 @@ Education
 * Erasmus exchange, Lund University, 2022-2023
 
 #Work experience
-#======
-#* Summer 2022: Research Assistant
-#  * GitHub University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
 
-#* Summer 2015: Research Assistant
-#  * GitHub University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
