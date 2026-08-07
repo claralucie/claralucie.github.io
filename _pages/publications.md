@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+
 # First author publications
 
 1. Novel $$z {\ensuremath{\sim}} 10$$ auroral line measurements extend the gradual offset of the fundamental metallicity relation deep into the first gigayear of cosmic time
