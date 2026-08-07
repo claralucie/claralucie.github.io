@@ -38,4 +38,4 @@ author_profile: true
    
 # Outreach
 
-[Dissecting the first galaxies Podcast](https://www.youtube.com/watch?v=ywf-GtSuAcM)
+1. Podcast - [Dissecting the first galaxies](https://www.youtube.com/watch?v=ywf-GtSuAcM)
