@@ -8,42 +8,42 @@ author_profile: true
 
 # First author publications
 
-1. Novel $$z \sim 10$$ auroral line measurements extend the gradual offset of the fundamental metallicity relation deep into the first gigayear of cosmic time,
-C. Pollock et. al., (2026a)
+1. "Novel $$z \sim 10$$ auroral line measurements extend the gradual offset of the fundamental metallicity relation deep into the first gigayear of cosmic time",
+C. Pollock et. al., A&A 708 (2026a)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026A&A...708A.203P)
 
-3. Characterising $$Ly\alpha$$ damping wings at the onset of reionisation: Evidence for highly efficient star formation driven by dense, neutral gas in UV-bright galaxies at $$z > 9$$,
-C. Pollock et. al., (2026b)
+2. "Characterising $$Ly\alpha$$ damping wings at the onset of reionisation: Evidence for highly efficient star formation driven by dense, neutral gas in UV-bright galaxies at $$z > 9$$",
+C. Pollock et. al., A&A 711 (2026b)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026A&A...711A.298P)
 
-4. Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn,
-C. Pollock et. al., (2026c)
+3. "Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn",
+C. Pollock et. al., submitted, (2026c)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260613078P)
 
 # Publications with major contributions
 
-1. Dissecting the Massive Pristine, Neutral Gas Reservoir of a Remarkably Bright Galaxy at $$z = 14.179$$,
-K. Heintz et. al., (2025)
+1. "Dissecting the Massive Pristine, Neutral Gas Reservoir of a Remarkably Bright Galaxy at $$z = 14.179$$",
+K. Heintz et. al., ApJL 987 (2025)
 [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...987L...2H)
 
-2. A Cosmic Miracle: A Remarkably Luminous Galaxy at $$z_{spec} = 14.44$$ Confirmed with JWST,
-R. Naidu et. al., (2026)
+2. "A Cosmic Miracle: A Remarkably Luminous Galaxy at $$z_{spec} = 14.44$$ Confirmed with JWST",
+R. Naidu et. al., OJAp 956 (2026)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026OJAp....956033N)
 
-3. A dense web of neutral gas in a galaxy proto-cluster post-reionization,
-K. Heintz et. al., (2026a)
+3. "A dense web of neutral gas in a galaxy proto-cluster post-reionization",
+K. Heintz et. al., NatAs 10 (2026a)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026NatAs..10..448H)
 
-4. A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST,
-H. Reumert et. al., (2026)
+4. "A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST",
+H. Reumert et. al., submitted, (2026)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260313471R)
 
-5. JWST spectroscopy of galaxies at $$z>10$$: Damped Ly$$α$$ absorbers reveal efficient star formation and hidden redshift biases
-K. Heintz et. al., (2026b)
+5. "JWST spectroscopy of galaxies at $$z>10$$: Damped Ly$$α$$ absorbers reveal efficient star formation and hidden redshift biases"
+K. Heintz et. al., submitted, (2026b)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260630787H)
 
-6. The metallicities of little red dot host galaxies: LRDs are metal poor, but not pristine,
-G. Nikopoulos et. al., (2026)
+6. "The metallicities of little red dot host galaxies: LRDs are metal poor, but not pristine",
+G. Nikopoulos et. al., submitted (2026)
 [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260631515N)
 
 # Co-author publications
