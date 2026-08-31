@@ -246,9 +246,9 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: art
+      type: research
     values:
-      layout: art
+      layout: research
       author_profile: true
       share: true
   # _publications
