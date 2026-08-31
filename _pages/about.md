@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage - Clara Pollock"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
