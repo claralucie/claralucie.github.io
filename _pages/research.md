@@ -28,4 +28,6 @@ How did the first galaxies reionise the surrounding neutral universe?
 [MoM-z14](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst) is the highest-redshift, or most distant galaxy observed to date. 
 With JWST, this object is confirmed to lie at z ≈ 14.44. It is remarkably luminous, with high nitrogen abundance, and a noticeable lack of a damping wing unlike most galaxies at high-z, implying the surroundings are at least partially ionised. 
 
+<img src="/images/MoM-z14.jpg" width=600>
 
+_Image credit to: NASA, ESA, CSA, STScI, R. Naidu (MIT), Image Processing: J. DePasquale (STScI)_
