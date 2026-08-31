@@ -13,9 +13,10 @@ Early galaxies are particularly interesting as the physics of the first star-for
 How stars formed in a completely metal-free, pristine environment is unknown, as is the distribution of their masses. 
 
 <img src="/images/Time since Big Bang-2.pdf" width=600>
-Schematic illustration of a simplified history of the universe. Showing the beginning of galaxy formation at cosmic dawn (z ≈ 15 − 20), and the ongoing evolution up to the present-day universe with huge variety of galaxies. Also illustrated is the transition from a neutral universe to completely ionised, known to have been completed by z = 5.
+
+_Schematic illustration of a simplified history of the universe. Showing the beginning of galaxy formation at cosmic dawn (z ≈ 15 − 20), and the ongoing evolution up to the present-day universe with huge variety of galaxies. Also illustrated is the transition from a neutral universe to completely ionised, known to have been completed by z = 5.
 Early galaxies reionised their immediate surroundings, with ‘ionised bubbles’.
-Zoom-ins show an imagined early galaxy with pristine neutral gas inflows fuelling the first star formation, and the James Webb Space Telescope (JWST) with its current redshift record, z ≈ 14.4.
+Zoom-ins show an imagined early galaxy with pristine neutral gas inflows fuelling the first star formation, and the James Webb Space Telescope (JWST) with its current redshift record, z ≈ 14.4._
 
 # Chemical abundances
 Massive stars will quickly enrich the surrounding interstellar medium (ISM) with metals (elements heavier than hydrogen and helium), which will then be recycled into the next generation of stars.
