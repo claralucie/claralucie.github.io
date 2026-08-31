@@ -37,7 +37,7 @@ Black holes \\
 <img src="/images/black_holes_cosmicdawn.pdf" width=300>
 
 Public Summary from my MPhys project in Edinburgh. A children's book describing early galaxies and chemical abundances.
-<object data="/files/PublicSummary_Clara_a.pdf" width="500" height="500" type='application/pdf'/>
+<object data="/files/PublicSummary_Clara_text.pdf" width="500" height="500" type='application/pdf'/>
 
 Non-astronomy illustrations
 ======
