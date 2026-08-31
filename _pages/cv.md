@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/ClaraPollock_CV-1.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="/files/CV_1_page.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="/files/CV_2_page.pdf" width="1000" height="1000" type='application/pdf'/>
 
-<img src="/files/CV_1_page.pdf">
-<img src="/files/CV_2_page.pdf">
