@@ -1,0 +1,17 @@
+picture_path: images
+preview:
+  filename: Glasgow.pdf
+  original: Glasgow.pdf
+  thumbnail: Glasgow.pdf
+pictures:
+- filename: Glasgow.pdf
+  original: Glasgow.pdf
+  thumbnail: Glasgow.pdf
+pictures:
+- filename: Edinburgh.pdf
+  original: Edinburgh.pdf
+  thumbnail: Edinburgh.pdf
+pictures:
+- filename: Apple I.jpg
+  original: Apple I.jpg
+  thumbnail: Apple I.jpg
