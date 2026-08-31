@@ -1,0 +1,15 @@
+-
+ title: Scientific Illustrations
+ directory: galaxy-illustrations
+ preview:
+  filename: JWST_ALMA_illustration.jpeg
+  original: JWST_ALMA_illustration.jpeg
+  thumbnail: JWST_ALMA_illustration.jpeg
+-
+ title: Personal Illustrations
+ directory: non-galaxy-illustrations
+ picture_path: images
+ preview:
+  filename: Glasgow.pdf
+  original: Glasgow.pdf
+  thumbnail: Glasgow.pdf
