@@ -281,7 +281,7 @@ defaults:
       share: true
   # _illustrations
   - scope:
-      path: ""
+      path: "illustrations"
       type: illustrations
     values:
       layout: illustrations
