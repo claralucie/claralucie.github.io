@@ -1,0 +1,48 @@
+picture_path: images
+preview:
+  filename: JWST_ALMA_illustration
+  original: JWST_ALMA_illustration.jpeg
+  thumbnail: JWST_ALMA_illustration.jpeg
+  title: Galaxies
+  caption: Galaxy evolution illustrations
+pictures:
+- filename: JWST_ALMA_illustration
+  original: JWST_ALMA_illustration.jpeg
+  thumbnail: JWST_ALMA_illustration.jpeg
+  title: Observer
+  caption: Galaxy observed with JWST and ALMA
+- filename: black_holes_cosmicdawn.pdf
+  original: black_holes_cosmicdawn.pdf
+  thumbnail: black_holes_cosmicdawn.pdf
+  title: BlackHole
+  caption: Black Hole formation at cosmic dawn
+- filename: chem_cosmicdawn.pdf
+  original: chem_cosmicdawn.pdf
+  thumbnail: chem_cosmicdawn.pdf
+  title: ChemicalEvolution
+  caption: Chemical Abundances at cosmic dawn
+- filename: galass_cosmicdawn.pdf
+  original: galass_cosmicdawn.pdf
+  thumbnail: galass_cosmicdawn.pdf
+  title: Galaxy Assembly
+  caption: Galaxy Assembly at cosmic dawn
+- filename: galform_cosmicdawn.pdf
+  original: galform_cosmicdawn.pdf
+  thumbnail: galform_cosmicdawn.pdf
+  title: Galaxy Formation
+  caption: Galaxy Formation at cosmic dawn
+- filename: reion_cosmicdawn.pdf
+  original: reion_cosmicdawn.pdf
+  thumbnail: reion_cosmicdawn.pdf
+  title: Reionisation
+  caption: Reionisation at cosmic dawn
+- filename: DM_halo.jpg
+  original: DM_halo.jpg
+  thumbnail: DM_halo.jpg
+  title: DarkMatter
+  caption: Dark Matter halo
+- filename: Time since Big Bang-2.pdf
+  original: Time since Big Bang-2.pdf
+  thumbnail: Time since Big Bang-2.pdf
+  title: Timeline
+  caption: Timeline of the Universe
