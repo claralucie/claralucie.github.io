@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: gallery-layout
 title: Galaxy Illustrations
 permalink: /illustrations/galaxy/
 no_menu_item: true # required only for this example website because of menu construction
