@@ -20,9 +20,9 @@ Astronomy illustrations
   <img src="/images/galaxy/galform_cosmicdawn.jpg" width="300">
   <img src="/images/galaxy/chem_cosmicdawn.jpg" width="300">
   <img src="/images/galaxy/black_holes_cosmicdawn.jpg" width="300">
+  <img src="/images/galaxy/Timeline.pdf" width="600">
 </p>
 
-<img src="/images/galaxy/Timeline.pdf" width=900>
 
 Non-astronomy illustrations
 ======
