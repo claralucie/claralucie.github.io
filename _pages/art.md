@@ -22,7 +22,7 @@ Astronomy illustrations
   <img src="/images/galaxy/black_holes_cosmicdawn.pdf" width="300">
 </p>
 
-<img src="/images/Time since Big Bang-2.pdf" width=600>
+<img src="/images/galaxy/Timeline.pdf" width=900>
 
 Non-astronomy illustrations
 ======
