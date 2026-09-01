@@ -3,7 +3,6 @@ layout: gallery
 title: Personal Illustrations
 permalink: /illustrations/nongalaxy/
 author_profile: true
-no_menu_item: true # required only for this example website because of menu construction
 support: [jquery, gallery]
 ---
 
