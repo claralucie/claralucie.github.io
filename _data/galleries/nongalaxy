@@ -1,4 +1,4 @@
-picture_path: images
+picture_path: images/nongalaxy
 preview:
   filename: Glasgow.pdf
   original: Glasgow.pdf
@@ -12,6 +12,6 @@ pictures:
   original: Edinburgh.pdf
   thumbnail: Edinburgh.pdf
 pictures:
-- filename: Apple I.jpg
-  original: Apple I.jpg
-  thumbnail: Apple I.jpg
+- filename: Apple.jpg
+  original: Apple.jpg
+  thumbnail: Apple.jpg
