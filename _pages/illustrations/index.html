@@ -13,7 +13,7 @@ author_profile: true
 {% assign align = "left" %}
 {% for gallery in site.data.galleries.overview %}
 {% if count == 0 %}<div class="row">{% endif %}
-  <div class="half-width gallery-preview {{ align }}">
+  <div class="half-width gallery-preview {{ align }}" style="max-width: 300px;">
     <h1>{{ gallery.title }}</h1>
     <a href="{{ site.baseurl }}/illustrations/{{ gallery.directory }}/">
       <img alt="{{ gallery.title }}" src="{{ site.baseurl }}/images/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
