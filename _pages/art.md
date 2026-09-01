@@ -15,11 +15,11 @@ Astronomy illustrations
 <p float="left">
   <img src="/images/galaxy/DM_halo.jpg" width=300>
   <img src="/images/galaxy/JWST_ALMA_illustration.jpeg" width="300"> 
-  <img src="/images/galaxy/reion_cosmicdawn.pdf" width="300">
-  <img src="/images/galaxy/galass_cosmicdawn.pdf" width="300">
-  <img src="/images/galaxy/galform_cosmicdawn.pdf" width="300">
-  <img src="/images/galaxy/chem_cosmicdawn.pdf" width="300">
-  <img src="/images/galaxy/black_holes_cosmicdawn.pdf" width="300">
+  <img src="/images/galaxy/reion_cosmicdawn.jpg" width="300">
+  <img src="/images/galaxy/galass_cosmicdawn.jpg" width="300">
+  <img src="/images/galaxy/galform_cosmicdawn.jpg" width="300">
+  <img src="/images/galaxy/chem_cosmicdawn.jpg" width="300">
+  <img src="/images/galaxy/black_holes_cosmicdawn.jpg" width="300">
 </p>
 
 <img src="/images/galaxy/Timeline.pdf" width=900>
