@@ -12,7 +12,7 @@ I am studying the light from these early galaxies with spectroscopy, which allow
 Early galaxies are particularly interesting as the physics of the first star-formation is still not entirely understood.
 How stars formed in a completely metal-free, pristine environment is unknown, as is the distribution of their masses. 
 
-<img src="/images/Time since Big Bang-2.pdf" width=600>
+<img src="/images/galaxy/Timeline.pdf" width=600>
 
 _Schematic illustration of a simplified history of the universe. Showing the beginning of galaxy formation at cosmic dawn (z ≈ 15 − 20), and the ongoing evolution up to the present-day universe with huge variety of galaxies. Also illustrated is the transition from a neutral universe to completely ionised, known to have been completed by z = 5.
 Early galaxies reionised their immediate surroundings, with ‘ionised bubbles’.
