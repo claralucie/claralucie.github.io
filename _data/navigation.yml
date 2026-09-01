@@ -24,6 +24,6 @@ main:
   - title: "Art"
     url: /art/
 
-  - title: "Illustrations"
-    url: /illustrations/
+ # - title: "Illustrations"
+ #   url: /illustrations/
   
