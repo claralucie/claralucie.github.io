@@ -1,4 +1,4 @@
-picture_path: images
+picture_path: images/galaxy
 preview:
   filename: JWST_ALMA_illustration
   original: JWST_ALMA_illustration.jpeg
@@ -41,8 +41,8 @@ pictures:
   thumbnail: DM_halo.jpg
   title: DarkMatter
   caption: Dark Matter halo
-- filename: Time since Big Bang-2.pdf
-  original: Time since Big Bang-2.pdf
-  thumbnail: Time since Big Bang-2.pdf
+- filename: Timeline.pdf
+  original: Timeline.pdf
+  thumbnail: Timeline.pdf
   title: Timeline
   caption: Timeline of the Universe
