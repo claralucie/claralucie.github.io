@@ -1,12 +1,12 @@
 picture_path: images/galaxy
 preview:
-  filename: JWST_ALMA_illustration
+  filename: JWST_ALMA_illustration.jpeg
   original: JWST_ALMA_illustration.jpeg
   thumbnail: JWST_ALMA_illustration.jpeg
   title: Galaxies
   caption: Galaxy evolution illustrations
 pictures:
-- filename: JWST_ALMA_illustration
+- filename: JWST_ALMA_illustration.jpeg
   original: JWST_ALMA_illustration.jpeg
   thumbnail: JWST_ALMA_illustration.jpeg
   title: Observer
